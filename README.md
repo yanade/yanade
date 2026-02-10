@@ -63,3 +63,6 @@ I am currently studying at **Northcoders (Data Engineering Bootcamp)**, developi
 
 > “Decode the system. Understand the pattern. Engineer the solution.”  
 > — yanade
+
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyanade&label=PROFILE%20VIEWS&countColor=%23263159&style=flat)
