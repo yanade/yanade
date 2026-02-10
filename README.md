@@ -66,6 +66,8 @@ I am currently studying at **Northcoders (Data Engineering Bootcamp)**, developi
 
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyanade&label=PROFILE%20VIEWS&countColor=%23263159&style=flat)
-[![ClustrMaps](https://clustrmaps.com/map_v2.png?d=github.com/yanade&cl=ffffff&w=a)](https://clustrmaps.com)
-
-[![Visitor Map](https://mapmyvisitors.com/map.js?d=bQ4I1OqORDEiCmTMbDye4gNmiXILvg1U_pjmcMa9SsI&cl=ffffff)](https://mapmyvisitors.com/web/index.html)
+<p align="center">
+  <a href="https://clustrmaps.com/site/1c0p6" title="Visit tracker">
+    <img src="//clustrmaps.com/map_v2.png?d=bQ4I1OqORDEiCmTMbDye4gNmiXILvg1U_pjmcMa9SsI&cl=ffffff" />
+  </a>
+</p>
