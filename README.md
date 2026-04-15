@@ -50,9 +50,7 @@ I focus on creating well-structured, reliable data workflows using Python, SQL a
 I previously worked in finance & operations within the e-commerce sector, where I developed strong analytical skills, process understanding, and experience with data-driven decision making.  
 This background now supports my transition into Data Engineering.
 
-I am currently studying at **Northcoders (Data Engineering Bootcamp)**, developing cloud-first and data-focused engineering skills.
 
----
 
 ## 📫 Contact
 
