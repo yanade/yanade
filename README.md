@@ -54,7 +54,7 @@ This background now supports my transition into Data Engineering.
 
 ## 📫 Contact
 
-- **GitHub:** https://github.com/yanade  
+- **Linkedin:** www.linkedin.com/in/yana-de 
 
 
 ---
